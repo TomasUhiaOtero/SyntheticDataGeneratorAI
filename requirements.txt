@@ -1,0 +1,11 @@
+jupyterlab>=4.0
+ipykernel>=6.0
+torch
+numpy
+pandas
+openai
+sqlalchemy
+gradio
+huggingface_hub
+transformers
+python-dotenv
